@@ -9,10 +9,10 @@
 
 
 ## 결과화면
--2판만에 승패가 나올 경우 </br>
+### 2판만에 승패가 나올 경우 </br>
 ![image](https://user-images.githubusercontent.com/108244911/180694904-9b353844-69c3-4952-bbda-471f2cc213cc.png)
 
--3판 다 했을 경우 </br>
+### 3판 다 했을 경우 </br>
 ![image](https://user-images.githubusercontent.com/108244911/180694999-b0258d22-0693-42aa-ac45-1380675cbabd.png)
 
 
